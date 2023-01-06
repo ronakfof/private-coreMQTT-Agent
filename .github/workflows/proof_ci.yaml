@@ -2,16 +2,7 @@
 # SPDX-License-Identifier: MIT-0
 name: Run CBMC proofs
 on:
-  push:
-    branches-ignore:
-      - gh-pages
   pull_request_target:
-    types:
-      - opened
-      - synchronize
-      - reopened
-    branches-ignore:
-      - gh-pages
 
 # USAGE
 #
