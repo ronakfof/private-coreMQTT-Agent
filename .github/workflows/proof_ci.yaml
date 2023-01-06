@@ -3,6 +3,7 @@
 name: Run CBMC proofs
 on:
   pull_request_target:
+    types: [assigned, opened, synchronize, reopened]
 
 # USAGE
 #
