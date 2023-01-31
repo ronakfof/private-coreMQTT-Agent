@@ -1,7 +1,4 @@
-aws-cloudfront-domain: dxllvvpyhb3m7.cloudfront.net
-aws-region: us-east-1
-aws-role-duration-seconds: 3600
-cadical-tag: 
+cadical-tag: latest
 cbmc-version: latest
 cbmc-viewer-version: latest
 kissat-tag: latest
